@@ -50,3 +50,5 @@ cscope.*
 *.tar.gz
 *.patch
 *.orig
+
+/.project
